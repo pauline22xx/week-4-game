@@ -1,0 +1,17 @@
+.gemImage {
+	height: 200px;
+	width: 200px;
+}
+body {
+	background-image: url("../assets/images/1-crystalcollector.jpeg");
+}
+
+.container {
+	background-color: #FED7F8;
+	width: 600px;
+	font-weight: bold;
+}
+
+
+
+

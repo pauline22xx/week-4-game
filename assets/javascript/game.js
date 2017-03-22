@@ -24,6 +24,7 @@ console.log(crystals);
 
 
 $( ".gemImage" ).click(function() {
+	generateCrystalValues()
   //stuff to when gems are clicked
 });
 
